@@ -1,0 +1,4 @@
+color code:
+bg: #093824
+text b: #C6CCB2
+text: #E5EAFA
